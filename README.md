@@ -40,20 +40,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 I learned how to manipulate flex boxes so that I can display content on the front end to my liking.
 This project was really great to understand how I can get a flexbox to stick a footer to the bottom of the page and center align content.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
 ### Continued development
 
 I will continue my development in understanding flex boxes in greater detail. And implementing the use of media queries in the future for smaller viewports/devices.
