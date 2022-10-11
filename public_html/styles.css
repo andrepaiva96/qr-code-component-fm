@@ -1,8 +1,46 @@
-.attribution {
-    font-size: 11px;
+body {
+    background-color: #d5e1ef;
+    margin: 0px;
+}
+
+.container {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main {
+    width: 250px;
+    padding: 15px;
+    margin-top: auto;
+    text-align: center;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 0px 10px 50px hsl(212, 45%, 89%);
+}
+
+.qr-code-image {
+    width: 100%;
+    align-self: center;
+    border-radius: 15px;
+}
+
+/* Footer Styling */
+.footer {
+    margin-top: auto;
     text-align: center;
 }
 
-.attribution a {
-    color: hsl(228, 45%, 44%);
+/* Google Fonts / Typography */
+h1{
+    font-size: 20px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+}
+p {
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
 }
