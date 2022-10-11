@@ -34,16 +34,24 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS
 - Flexbox
 - Mobile-first workflow
+- Git
+
+- Sublime Merge
+- GitHub
 
 ### What I learned
 
 I learned how to manipulate flex boxes so that I can display content on the front end to my liking.
 This project was really great to understand how I can get a flexbox to stick a footer to the bottom of the page and center align content.
 
+This first task was great to understand how to create a repo in GitHub and push pull request to the repo.
+
 ### Continued development
 
 I will continue my development in understanding flex boxes in greater detail. And implementing the use of media queries in the future for smaller viewports/devices.
 I would also like to implement to use of Grids in future projects so that I can increase my understanding in them as well.
+
+I would like to continue my development and understading in Git and using GitHub and Sublime Merge. I will continue my development in understading branches and creating branches in my repo in the future.
 
 ### Useful resources
 
